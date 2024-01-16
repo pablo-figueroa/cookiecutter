@@ -1,4 +1,5 @@
 {
+    "project_title": "cookiecutter_Title",
     "project_name": "Cookiecutter_Personal",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
     "project_author_name": "Your name (or your organization/company/team)",
